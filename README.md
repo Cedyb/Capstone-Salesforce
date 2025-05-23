@@ -6,3 +6,6 @@ Data Management - Objects
 
 Data Management - Tabs
 [Watch the Video](https://drive.google.com/file/d/1-scOcJEyvNnehGisykp7dqu5pIPfp0Dq/view?usp=drive_link)
+
+Data Management  - App Manager
+[Watch the Video](https://drive.google.com/file/d/1jdq1CQV815OtI1mfxfxBto7HWqQZEN7F/view?usp=drive_link)
