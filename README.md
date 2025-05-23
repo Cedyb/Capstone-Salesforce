@@ -30,3 +30,6 @@ Data Security - Permission_Platform_1
 
 Email Template
 [Watch the Video](https://drive.google.com/file/d/12VkCqEO88hWY3XSJxBKCjodpe7S__7x2/view?usp=drive_link)
+
+Flows
+[Watch the Video](https://drive.google.com/file/d/1WfQcQQzUuvnRTT5PQFa3rGmndrnNyN5Z/view?usp=drive_link)
