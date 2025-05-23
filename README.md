@@ -24,3 +24,6 @@ Data Security - Roles
 
 Data Security - Users
 [Watch the Video](https://drive.google.com/file/d/1r7SZOL6Q69Gq9HVppdMfIoAtJyBYPxrs/view?usp=drive_link)
+
+Data Security - Permission_Platform_1
+[Watch the Video](https://drive.google.com/file/d/1lUmiqtDFSgcpV4mZv0YXsqFNICZVvkMu/view?usp=drive_link)
