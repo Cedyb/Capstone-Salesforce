@@ -27,3 +27,6 @@ Data Security - Users
 
 Data Security - Permission_Platform_1
 [Watch the Video](https://drive.google.com/file/d/1lUmiqtDFSgcpV4mZv0YXsqFNICZVvkMu/view?usp=drive_link)
+
+Email Template
+[Watch the Video](https://drive.google.com/file/d/12VkCqEO88hWY3XSJxBKCjodpe7S__7x2/view?usp=drive_link)
