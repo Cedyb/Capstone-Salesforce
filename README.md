@@ -1,6 +1,4 @@
-# Capstone Salesforce
-
-Welcome to my Salesforce Capstone project!
+Salesforce Credentials Setup - Developer Account Creation & Account Verification
 
 Salesforce Credentials Setup - Developer Account Creation & Account Verification
 
