@@ -36,3 +36,6 @@ Flows
 
 Automation Using Apex
 [Watch the Video](https://drive.google.com/file/d/1t1wvJe2a9Un_gSn8TDLhf9PNZKJV8TsY/view?usp=drive_link)
+
+Batch Jobs
+[Watch the Video](https://drive.google.com/file/d/15Ozu7gNHm8l7BJqPTARjI-Qu_eqh_BkH/view?usp=drive_link)
