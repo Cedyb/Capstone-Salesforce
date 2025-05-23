@@ -15,3 +15,6 @@ Data Management - Fields
 
 Data Configuration
 [Watch the Video](https://drive.google.com/file/d/16HT7Qh2crg1KPDo9vwadCIHxE575tGPF/view?usp=drive_link)
+
+Data Security - Profiles
+[Watch the Video](https://drive.google.com/file/d/1JcwkZZpX56grPM2bDTBxvzRVUEeUjFuK/view?usp=drive_link)
