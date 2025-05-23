@@ -4,3 +4,6 @@ Salesforce Credentials Setup - Developer Account Creation & Account Verification
 
 Data Management - Objects
 [Watch the Video](https://drive.google.com/file/d/1UhW77FtGIVxzceLQKIMvH9KLVgm38iar/view?usp=drive_link)
+
+Data Management - Tabs
+[Watch the Video](https://drive.google.com/file/d/1-scOcJEyvNnehGisykp7dqu5pIPfp0Dq/view?usp=drive_link)
