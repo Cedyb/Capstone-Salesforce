@@ -18,3 +18,6 @@ Data Configuration
 
 Data Security - Profiles
 [Watch the Video](https://drive.google.com/file/d/1JcwkZZpX56grPM2bDTBxvzRVUEeUjFuK/view?usp=drive_link)
+
+Data Security - Roles
+[Watch the Video](https://drive.google.com/file/d/10yavhiRNKGP87qkDzeGr53czo7sYnw41/view?usp=drive_link)
